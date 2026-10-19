@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/konradhalas/dacite/commit/9898ccbb783e7e6a35ae165e7deb9fa84edfe21c",
       "git:hexsha": "9898ccbb783e7e6a35ae165e7deb9fa84edfe21c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/konradhalas/dacite/commit/840263b868f3bf7e805163fa8e6f58040e4bdf8b",
